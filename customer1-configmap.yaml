@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: cuetomer1
+data:
+  TEXT1: Customer_Company
+  TEXT2: Welcom YOU
+  COMPANY: Customer1 Company Technology Pct.

@@ -1,0 +1,7 @@
+appVersion: v1
+kind: Deployment
+metadata:
+  name: ghost
+templeate:
+  replicas: 2
+
